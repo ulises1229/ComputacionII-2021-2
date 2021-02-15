@@ -1,2 +1,8 @@
-# ComputaciónII-2021-2
-Este repositorio contiene código fuente y recursos de la asignatura de Computación II
+# Licenciatura en Tecnología - Computación II
+## Semestre 2021-2
+
+![alt text](figs/logo2.png)
+
+## Profesor
+Dr. Ulises Olivares Pinto
+
