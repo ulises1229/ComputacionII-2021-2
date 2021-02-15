@@ -1,7 +1,7 @@
 # Licenciatura en Tecnología - Computación II
 ## Semestre 2021-2
 
-![alt text](figs/logo2.png)
+![alt text](figs/logo.png)
 
 ## Profesor
 Dr. Ulises Olivares Pinto
