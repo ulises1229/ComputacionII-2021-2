@@ -4,7 +4,7 @@
 
 ## Temas: Aplicaciones de la Eliminación Gaussiana (Matriz inversa)
 
-![alt text](figs/inverse.png)
+![alt text](../figs/inverse.png)
 
 ## Descripción de la práctica
 
