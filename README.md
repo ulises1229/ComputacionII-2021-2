@@ -10,7 +10,6 @@ Dr. Ulises Olivares Pinto
 El estudiante analizará y comprenderá distintos métodos numéricos para la resolución de problemas en el ámbito científico.
 
 # Código en Clase
-## Contenido del curso
 | No.        | Tema           | Conceptos |Código  |  Material complementario|
 | :-------------: |:-------------| :-------------|:-----:| :-----|
 | 1.              | Introducción a la inteligencia artificial| Historia y fundamentos |   [Eliminación Gaussiana](https://colab.research.google.com/drive/1ozRrY2LvSvpUQ1IQ9-kXXCjjDOfOxbmb?usp=sharing)   | Capítulo 9 - Numerical Methods, Steven Chapra | 
