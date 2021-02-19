@@ -14,9 +14,7 @@ El estudiante deberá modificar el método de la eliminación Gaussiana para cal
 
 Además de calcular la inversa de una matriz, se deberá aplicar este método para resolver un problema con una aplicación en el mundo real. Es posiblie utilizar como base alguna aplicación descrita en las siguientes fuentes: 
 
-<ol> <li> [paper1](https://www.jstor.org/stable/2282499?seq=1)</li> <li> [paper2](https://www.tandfonline.com/doi/abs/10.1080/0020739820130114)</li> </ol>
 
+[paper1](https://www.jstor.org/stable/2282499?seq=1)
 
-
-
-
+[paper2](https://www.tandfonline.com/doi/abs/10.1080/0020739820130114)
