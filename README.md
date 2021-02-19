@@ -9,4 +9,16 @@ Dr. Ulises Olivares Pinto
 ## Objetivo
 El estudiante analizará y comprenderá distintos métodos numéricos para la resolución de problemas en el ámbito científico.
 
-## Código en Clase
+# Código en Clase
+## Contenido del curso
+| No.        | Tema           | Conceptos |Código  |  Material complementario|
+| :-------------: |:-------------| :-------------|:-----:| :-----|
+| 1.              | Introducción a la inteligencia artificial| Historia y fundamentos |   [Eliminación Gaussiana](https://colab.research.google.com/drive/1ozRrY2LvSvpUQ1IQ9-kXXCjjDOfOxbmb?usp=sharing)   | Capítulo 9 - Numerical Methods, Steven Chapra | 
+
+# Prácticas
+
+|Práctica|Temas|Recursos|Fecha|
+|--|--|--|--|
+|1.Sistemas de ecuaciones lineales|<ol><li>Operaciones Fundamentales</li><li>Eliminación Gaussiana</li><li>POO con Python</li></ol>|<ul><li>[Presentación](practicas/1_repository/RepositoryPresentacion.pdf)</li><li>[Práctica](practicas/1_repository)</li> <li>[POO con Python](https://uniwebsidad.com/libros/python/capitulo-5/programacion-orientada-a-objetos) </li></ul>|19/02/21|
+
+Última modificación: **19 febrero de 2021**
