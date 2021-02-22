@@ -12,7 +12,7 @@ El estudiante analizará y comprenderá distintos métodos numéricos para la re
 # Código en Clase
 | No.        | Tema           | Conceptos |Código  |  Material complementario|
 | :-------------: |:-------------| :-------------|:-----:| :-----|
-| 1.              | Resolución de sistemas de ecuaciones algebraicas lineales |   [Eliminación Gaussiana](https://colab.research.google.com/drive/1ozRrY2LvSvpUQ1IQ9-kXXCjjDOfOxbmb?usp=sharing)   | Capítulo 9 - Numerical Methods, Steven Chapra | 
+| 1.              | Resolución de sistemas de ecuaciones algebraicas lineales |   <ul><li> Eliminación Gaussiana</li> <li>Método de Gauss-Jordan</li> <li>Método gráfico</li> </ul>   |  [Eliminación Gaussiana](https://colab.research.google.com/drive/1ozRrY2LvSvpUQ1IQ9-kXXCjjDOfOxbmb?usp=sharing)   | Capítulo 9 - Numerical Methods, Steven Chapra | 
 
 # Prácticas
 
