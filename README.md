@@ -12,7 +12,7 @@ El estudiante analizará y comprenderá distintos métodos numéricos para la re
 # Código en Clase
 | No.        | Tema           | Conceptos |Código  |  Material complementario|
 | :-------------: |:-------------| :-------------|:-----:| :-----|
-| 1.              | Introducción a la inteligencia artificial| Historia y fundamentos |   [Eliminación Gaussiana](https://colab.research.google.com/drive/1ozRrY2LvSvpUQ1IQ9-kXXCjjDOfOxbmb?usp=sharing)   | Capítulo 9 - Numerical Methods, Steven Chapra | 
+| 1.              | Resolución de sistemas de ecuaciones algebraicas lineales |   <ul><li> Eliminación Gaussiana</li> <li>Método de Gauss-Jordan</li> <li>Método gráfico</li> </ul>   |  [Eliminación Gaussiana](https://colab.research.google.com/drive/1ozRrY2LvSvpUQ1IQ9-kXXCjjDOfOxbmb?usp=sharing)   | Capítulo 9 - Numerical Methods, Steven Chapra | 
 
 # Prácticas
 
@@ -20,4 +20,4 @@ El estudiante analizará y comprenderá distintos métodos numéricos para la re
 |--|--|--|--|
 |1.Eliminación Gaussiana (aplicaciones)|<ol><li>Operaciones Fundamentales</li><li>Eliminación Gaussiana</li><li>POO con Python</li></ol>|<ul><li>[Práctica](practices/practice1.md)</li> <li>[POO con Python](https://uniwebsidad.com/libros/python/capitulo-5/programacion-orientada-a-objetos) </li></ul>|19/02/21|
 
-Última modificación: **19 febrero de 2021**
+Última modificación: **22 febrero de 2021**
