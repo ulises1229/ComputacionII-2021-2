@@ -20,4 +20,4 @@ El estudiante analizará y comprenderá distintos métodos numéricos para la re
 |--|--|--|--|
 |1.Eliminación Gaussiana (aplicaciones)|<ol><li>Operaciones Fundamentales</li><li>Eliminación Gaussiana</li><li>POO con Python</li></ol>|<ul><li>[Práctica](practices/practice1.md)</li> <li>[POO con Python](https://uniwebsidad.com/libros/python/capitulo-5/programacion-orientada-a-objetos) </li></ul>|19/02/21|
 
-Última modificación: **19 febrero de 2021**
+Última modificación: **22 febrero de 2021**
