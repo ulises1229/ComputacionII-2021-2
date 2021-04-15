@@ -14,7 +14,7 @@ El estudiante analizará y comprenderá distintos métodos numéricos para la re
 | :-------------: |:-------------| :-------------|:-----:| :-----|
 | 1.              | Resolución de sistemas de ecuaciones algebraicas lineales |   <ul><li> Eliminación Gaussiana</li> <li>Método de Gauss-Jordan</li> <li>Método gráfico</li> </ul>   |  [UNIDAD I - ELIMINACIÓN GAUSSIANA](https://colab.research.google.com/drive/1ozRrY2LvSvpUQ1IQ9-kXXCjjDOfOxbmb?usp=sharing)   | Capítulo 9 - Numerical Methods, Steven Chapra | 
 | 2.              | Raices de polinomios |   <ul><li> Método de la bisección </li>  </ul>   |  [UNIDAD II - RAICES DE POLINOMIOS](https://colab.research.google.com/drive/1E-gi8H1nND8zrnLDrKomcEbUp-oE_u82?usp=sharing)   | Capítulo 5 - Numerical Methods, Steven Chapra | 
-| 2.              | Interpolación |   <ul><li> Interpolación de Newton</li> <li> Interpolación de Lagrange</li> <li> Interpolación Spline</li>  </ul>   |  [UNIDAD III - Interpolación](code/Comp_II_Unidad_3_Interpolación.ipynb)   | Capítulo  | 
+| 2.              | Interpolación |   <ul><li> Interpolación de Newton</li> <li> Interpolación de Lagrange</li> <li> Interpolación Spline</li>  </ul>   |  [UNIDAD III - INTERPOLACIÓN](code/Comp_II_Unidad_3_Interpolación.ipynb)   | Capítulo  | 
 
 # Prácticas
 
